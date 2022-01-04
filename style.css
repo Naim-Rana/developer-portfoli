@@ -41,16 +41,18 @@ h1 {
 }
 
 .hire-me {
+    color: black;
     text-decoration: none;
-    background-color: orange;
-    padding: 10px 20px;
+    background-image: linear-gradient(orange, red);
+    padding: 10px 40px;
     border: 2px solid white;
     border-radius: 7px;
+    font-size: 16px;
 
 }
 
 .half-width .box .hire-me:hover {
-    background-color: black;
+    background-image: linear-gradient(navy, green);
     color: white;
     font-size: 20px;
     border-radius: 7px;
